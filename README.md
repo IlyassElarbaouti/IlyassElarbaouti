@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IlyassElarbaouti&theme=dark&hide_border=false)<br/>
-username=IlyassElarbaouti&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
